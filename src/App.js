@@ -13,6 +13,8 @@ function App() {
       {/* <Work /> */}
       <Stack />
       <Contact />
+      <div className='w-4/5 mx-auto text-center font-dosis md:w-2/5 transtion duration-2000'><p>This site is owned and operated by Riadh chougui.</p></div>
+
     </>
   );
 }
